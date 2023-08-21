@@ -20,12 +20,12 @@ body {
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 26px;
-    font-size: 26px;
+    margin: 0 16px;
+    font-size: 16px;
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 35%;
 }
 
 .escola{
