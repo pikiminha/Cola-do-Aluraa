@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #ffffff;
-    color: rgb(35, 10, 10);
+    color: rgb(35, 35, 35);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 20%;
 }
 
 .cabecalho-lista-item{
